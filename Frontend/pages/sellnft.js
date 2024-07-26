@@ -237,23 +237,23 @@ const [LIghthouseCid,SetLIghthouseCid] = useState('');
             </div>
           </div>
           <div className="md:w-1/2 py-10 px-12">
-            <p className="mb-3">Sell your ITEM and get paid.</p>
+            <p className="mb-3">List your Course and get paid.</p>
             <form>
               <div className="mt-5">
-                <input placeholder="ITEM Name" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, name: e.target.value })}/>
+                <input placeholder="Course Name" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, name: e.target.value })}/>
               </div>
 
               <div className="mt-5">
-                <textarea placeholder="ITEM Description" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, description: e.target.value })}/>  
+                <textarea placeholder="Course Description" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, description: e.target.value })}/>  
               </div>
               
               <div className="mt-5">
-                <input placeholder="ITEM Price in ETH" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, price: e.target.value })}/>  
+                <input placeholder="Course Price in ETH" className="border-2 border-black rounded p-4 mb-2 w-full" onChange={(e) => updateFormInput({ ...formInput, price: e.target.value })}/>  
               </div>
               
               <div className="mt-5">
 							  <label className="block text-sm font-medium text-gray-700 name1">
-								  Select ITEM Image
+								  Select Course Image
 							  </label>
 							  <div className="mt-1 flex items-center border-2 border-black">
 								  <span className="inline-block h-12 w-12 overflow-hidden rounded-full bg-gray-100">
