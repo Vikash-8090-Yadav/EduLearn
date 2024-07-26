@@ -18,8 +18,6 @@ const AboutUs = () => {
           <p className="text-white lg:w-3/5 ml-12 xl:w-1/2 text-lg mt-8 tracking-wider">
           Our mission is to empower users to explore their passions, connect with like-minded individuals,
            and unlock the true value of their possessions within a trusted decentralized ecosystem.
-
-
           </p>
           <div>
             <img
