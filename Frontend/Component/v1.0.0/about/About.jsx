@@ -64,7 +64,7 @@ const AboutUs = () => {
                   Our Vision
                 </h1>
                 <p className="text-[#D4D4D4] text-xl tracking-wider">
-                At "Minimal," we envision a global community of collectors, traders, and enthusiasts seamlessly interacting 
+                At "EduLearn," we envision a global community of collectors, traders, and enthusiasts seamlessly interacting 
           in a secure and transparent marketplace. By harnessing the power of NFTs and blockchain, we aim to create an inclusive 
           platform where users can confidently trade unique items, build their collections, and participate in a burgeoning economy 
           of rare and valuable goods. Our mission is to empower users to explore their passions, connect with like-minded individuals,
