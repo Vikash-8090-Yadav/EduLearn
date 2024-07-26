@@ -233,7 +233,7 @@ const [LIghthouseCid,SetLIghthouseCid] = useState('');
           <div className="md:w-1/2 bg-black flex flex-col justify-center items-center">
             <h2 className='text-3xl mb-4 text-white'>Add your details</h2>
             <div>
-              <p className='text-justify px-4 text-white'>Congratulations on taking the step to become a part of our vibrant community! By contributing your unique items to "MINIMAL," you're not just listing products; you're creating opportunities for others to discover and own exceptional pieces. Your participation in our marketplace enriches the experience for all, fostering a dynamic environment for collectors and enthusiasts alike. Thank you for being an integral part of our growing network of passionate traders and buyers.</p>
+              <p className='text-justify px-4 text-white'>Congratulations on taking the step to become a part of our vibrant community! By contributing your unique items to "EduLearn," you're not just listing products; you're creating opportunities for others to discover and own exceptional pieces. Your participation in our marketplace enriches the experience for all, fostering a dynamic environment for collectors and enthusiasts alike. Thank you for being an integral part of our growing network of passionate traders and buyers.</p>
             </div>
           </div>
           <div className="md:w-1/2 py-10 px-12">
